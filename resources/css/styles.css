@@ -132,6 +132,23 @@ h2, h3, h4 {
 }
 
 /* Contact */
+.contact {
+  height: 200px;
+}
+.contact h2 {
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+.contact h5 {
+  margin: 0;
+  padding: 10px;
+  text-decoration: none;
+}
 
 
 /* Footer */
+footer {
+  text-align: left;
+  padding-left: 20px;
+}
